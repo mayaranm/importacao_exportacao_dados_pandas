@@ -1,0 +1,49 @@
+# 📁 Importação e Exportação de Dados com Pandas
+
+Este repositório apresenta exemplos práticos de como importar e exportar arquivos **CSV e Excel** utilizando a biblioteca `pandas`, com atenção especial aos parâmetros que garantem a leitura correta dos dados — como separador de colunas e formato decimal.
+
+Também demonstra como importar dados diretamente de uma **URL pública**, prática comum em automações de coleta de dados.
+
+---
+
+## ✅ O que você verá neste projeto:
+
+- Leitura de arquivos `.csv` com `read_csv()`, incluindo ajuste de `sep` e `decimal`
+- Leitura de arquivos `.xlsx` com `read_excel()`
+- Importação de dados diretamente de um link (`URL`)
+- Exportação de arquivos tratados com `to_csv()` e `to_excel()`
+- Organização do código em blocos com `#%%`, ideal para uso em VS Code ou Spyder
+
+---
+
+## 🎯 Objetivo
+
+Este projeto reforça o domínio sobre **leitura e gravação de dados estruturados**, etapa essencial de qualquer pipeline de análise.  
+Foi desenvolvido durante meus estudos na formação **Análise de Dados com Python (USP)**.
+
+---
+
+## 💻 Tecnologias utilizadas
+
+- Python 3.x  
+- Pandas  
+- IDE: VS Code ou Spyder
+
+---
+
+## 🧠 Sobre mim
+
+Sou **Mayara Nascimento**, profissional em transição da área da saúde para a área de dados. Com mais de 10 anos de experiência em oncologia, estou aplicando esse conhecimento no desenvolvimento de soluções baseadas em dados.
+
+> 📊 Busco atuar como Analista de Dados Júnior em times que valorizem boa prática, propósito e consistência técnica.
+
+---
+
+## 📫 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/mayaranmartins)
+- ✉️ mayaranmartins@SEUEMAIL.com
+
+---
+
+> *Este é mais um projeto que documenta minha evolução técnica com foco em qualidade de dados e boas práticas na manipulação de arquivos. Sinta-se à vontade para acompanhar, sugerir ou colaborar!*
